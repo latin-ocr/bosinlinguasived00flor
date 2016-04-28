@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bosinlinguasived00flor_0001.png"; bbox 0 0 2602 3501; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 604 1223 1935 1289">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 604 1223 1935 1289">
+     <span class='ocr_line' id='line_1_1' title="bbox 604 1223 1935 1289; baseline 0.011 -17"><span class='ocrx_word' id='word_1_1' title='bbox 604 1223 850 1276; x_wconf 77' lang='lat' dir='ltr'>Joanne</span> <span class='ocrx_word' id='word_1_2' title='bbox 897 1225 1227 1289; x_wconf 72' lang='lat' dir='ltr'>Stephano</span> <span class='ocrx_word' id='word_1_3' title='bbox 1271 1227 1935 1287; x_wconf 62' lang='lat' dir='ltr'>Floriantschitsch</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 605 1349 1768 1415">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 605 1349 1768 1415">
+     <span class='ocr_line' id='line_1_2' title="bbox 605 1349 1768 1415; baseline 0.005 -18"><span class='ocrx_word' id='word_1_4' title='bbox 605 1349 726 1399; x_wconf 81' lang='lat' dir='ltr'>Bos</span> <span class='ocrx_word' id='word_1_5' title='bbox 776 1349 852 1400; x_wconf 70' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_6' title='bbox 901 1350 1142 1415; x_wconf 65' lang='lat' dir='ltr'>lingua</span> <span class='ocrx_word' id='word_1_7' title='bbox 1192 1350 1349 1400; x_wconf 61' lang='lat' dir='ltr'>sive</span> <span class='ocrx_word' id='word_1_8' title='bbox 1400 1351 1768 1404; x_wconf 57' lang='lat' dir='ltr'><strong>discursus</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 605 1433 1851 1568">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 605 1433 1851 1568">
+     <span class='ocr_line' id='line_1_3' title="bbox 605 1433 1851 1498; baseline 0.007 -17"><span class='ocrx_word' id='word_1_9' title='bbox 605 1433 1015 1483; x_wconf 62' lang='lat' dir='ltr'>academicus</span> <span class='ocrx_word' id='word_1_10' title='bbox 1064 1436 1140 1485; x_wconf 78' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_11' title='bbox 1188 1437 1517 1498; x_wconf 62' lang='lat' dir='ltr'>pecuniis</span> <span class='ocrx_word' id='word_1_12' title='bbox 1566 1441 1851 1490; x_wconf 69' lang='lat' dir='ltr'>vetero-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 606 1529 840 1568; baseline 0.013 -3"><span class='ocrx_word' id='word_1_13' title='bbox 606 1529 840 1568; x_wconf 60' lang='lat' dir='ltr'>novls.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 456 1098 2182 1788">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 456 1098 2182 1788">
+     <span class='ocr_line' id='line_1_5' title="bbox 456 1098 2182 1788; baseline 0 1713"><span class='ocrx_word' id='word_1_14' title='bbox 456 1098 2182 1788; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
